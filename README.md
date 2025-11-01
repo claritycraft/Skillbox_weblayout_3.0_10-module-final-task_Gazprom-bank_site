@@ -1,4 +1,4 @@
-# En: Skillbox_weblayout_3.0_10-module-final-task_Gazprom-bank_site
+# En: Skillbox_weblayout_3.0_Module-10-final-task_Gazprom-bank_site
 # Ru: Skillbox_weblayout_3.0_Модуль-10_Итоговое-задание_Газпромбанк_Сайт
 
 #### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
